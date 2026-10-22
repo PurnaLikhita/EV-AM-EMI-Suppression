@@ -1,0 +1,18 @@
+Mode: measured-source offline simulation
+Dataset: data\EVCharger_Lab_Data_V1.CSV
+Channel: Column 1: single-phase voltage (V)
+Units: V
+Sampling rate (Hz): 1000000
+CSV samples available: 2000000
+CSV samples selected: 200000 (0.200000 s)
+Preprocessed samples used: 199800
+High-pass cutoff / normalization (Hz): 20000 / 27000
+FIR taps / startup samples discarded: 201 / 200
+AM carrier (scaled simulation Hz): 100000
+Target training input SNR (dB): 5.00
+Observed held-out input SNR (dB): 5.0304
+Split fractions train/validation/test/each guard: 0.45 / 0.20 / 0.25 / 0.05
+NLMS candidates: [0.05 0.1 0.2 0.4]
+Selected NLMS step size: 0.05
+Synthetic coupling path: [0.72 -0.36 0.18 0.08]
+Metrics CSV: results\measured_source_simulation\metrics.csv
