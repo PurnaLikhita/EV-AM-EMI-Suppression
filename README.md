@@ -1,6 +1,6 @@
 # EV AM EMI Suppression Project
 
-**Adaptive EMI suppression for AM radio in electric vehicles** — VVIT ECE final-year project — Team A6 — Guide: Dr. K. Vijay Vardhan
+**Adaptive EMI suppression for AM radio in electric vehicles** 
 
 This repository contains MATLAB simulations for LMS, NLMS, and RLS adaptive EMI suppression, a measured-source demonstration based on charger-voltage data, the saved MATLAB outputs, and Simulink construction helpers.
 
